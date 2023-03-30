@@ -1,6 +1,6 @@
 # API_Testing_Project
 
-### 💡 consists of HTML, HTML Additional Report, and CRUD Operation :
+### 💡 Consists Of HTML, HTML Additional Report, and CRUD Operation :
 
 ### 💡 Summary,
 
